@@ -42,9 +42,9 @@ To run this project, you need to have the following installed:
 
 1.**Start Jupyter Notebook**:
    ```sh
-   jupyter notebook
-2. **Open the Practice_Sheet.ipynb**:
-  Navigate to the notebook in the Jupyter interface and open it to run the cells and see the web scraping process in action.
+     jupyter notebook
+2.**Open the Practice_Sheet.ipynb**:
+    Navigate to the notebook in the Jupyter interface and open it to run the cells and see the web scraping process in action.
 
 ### Project Structure
     WikipideaWebscrapping/
